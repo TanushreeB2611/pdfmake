@@ -7,7 +7,6 @@ doc
 *.ipr
 *.iws
 nbproject
-package-lock.json
 yarn.lock
 .idea
 /js
